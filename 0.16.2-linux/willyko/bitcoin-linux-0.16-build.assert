@@ -1,17 +1,17 @@
 --- !omap
 - out_manifest: |
-    80a58ae0c2cded41adcd6d10586f2d544dcd1a19109498c1e4a8df75beb62da4  bitcoin-0.16.2-aarch64-linux-gnu-debug.tar.gz
-    d44c26b53d58e360bbfd022091feaee38e99c72de422af40d334d0c8547a8ba0  bitcoin-0.16.2-aarch64-linux-gnu.tar.gz
-    229a4158d6c7909405d50e64b47ab5f949b3c72701a14cdf37b91e70e4c9d6e1  bitcoin-0.16.2-arm-linux-gnueabihf-debug.tar.gz
-    89c9b275ed2b89fb7257dfd2ef0a57ffe8fe5dc77f3d9f7a402ab356678652f8  bitcoin-0.16.2-arm-linux-gnueabihf.tar.gz
-    6ea49d31d94cefbd079bd8df0097d9c718829163821e5d1cbf1f69d46c391f6a  bitcoin-0.16.2-i686-pc-linux-gnu-debug.tar.gz
-    bd3d9e2f0131b40abb3a719206a2c4ab1df12070604abdac382ec0a900fd09f1  bitcoin-0.16.2-i686-pc-linux-gnu.tar.gz
-    93c75e3be6655e748430793865991d95dd6d17140c8cb98d0db0606e160b3371  bitcoin-0.16.2-x86_64-linux-gnu-debug.tar.gz
-    2bb7821fee1ce84b422581255f8bdd7c6726e5cecee2cbcad9d7bf52f559f0e5  bitcoin-0.16.2-x86_64-linux-gnu.tar.gz
-    5aeeccda62680ac4cdc1a28c081253d5366f380c0db57d823796de8c317e2cf4  src/bitcoin-0.16.2.tar.gz
+    6a6dfa8eaa1d406a87abe6113231e745e13c24787cb90843e203517cb8802475  bitcoin-0.16.2-aarch64-linux-gnu-debug.tar.gz
+    81ead2a19c310e4637700aad899d4224d48882e79913740d9f91cd1587bceae0  bitcoin-0.16.2-aarch64-linux-gnu.tar.gz
+    3240198868b405a91a0811f2d19083982be6f519d148093d8016d358686aa44b  bitcoin-0.16.2-arm-linux-gnueabihf-debug.tar.gz
+    98c5d3c74b15ac2d366bd971169b003ef7c1af8d42b54a860a94e7fe5a434a81  bitcoin-0.16.2-arm-linux-gnueabihf.tar.gz
+    d46ddf3a0ef33b64bc0fee3c10a3b1f6e73b3c34a3de22a9cb30c776e314c7d5  bitcoin-0.16.2-i686-pc-linux-gnu-debug.tar.gz
+    1cd3c2786f0a1c708708a7b0038a7b48932b045e23ff745cc25ac37c12422438  bitcoin-0.16.2-i686-pc-linux-gnu.tar.gz
+    14b0d47fb443d9ecb7dcbaea47d1c10275518e7e9ac63b041767ec0a2a9f4b6a  bitcoin-0.16.2-x86_64-linux-gnu-debug.tar.gz
+    71f217e30e98d5ccc1fb574b9499595e87e118e596278fad5507a7b84650859c  bitcoin-0.16.2-x86_64-linux-gnu.tar.gz
+    1910c58b7d8e13acbd05b0e8fd9b4b61cbac5776f058ee10bc80c1d2a7c707d8  src/bitcoin-0.16.2.tar.gz
 - in_manifest: |-
     44823d4571e4ee77bd0d1c27f6afd87aea2ddd36eb38e3d11dd7f82286efa4a6  bitcoin-linux-0.16-desc.yml
-    git:7649da3588b1327ad9e9694ad52c65ee5207b0c0 bitcoin
+    git:2848aa808fde462c27bc36de982d7ed74e882a7b bitcoin
 - base_manifests: !omap
   - trusty-amd64: |
       1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb

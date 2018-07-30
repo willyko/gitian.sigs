@@ -1,13 +1,13 @@
 --- !omap
 - out_manifest: |
-    27116a3155bea1d2f2b4a34a4198e964229d57fab6d6371584ba1841556e47cf  bitcoin-0.16.2-osx-unsigned.dmg
-    b3502c218070b168d4f8dde277b2ea31c5e5b6999cef22df0056b18f43efa402  bitcoin-0.16.2-osx-unsigned.tar.gz
-    402b3becbe4c96629082c63e48ba181b01d3f1c92319912e8ef15d034835f3c6  bitcoin-0.16.2-osx64.tar.gz
-    5aeeccda62680ac4cdc1a28c081253d5366f380c0db57d823796de8c317e2cf4  src/bitcoin-0.16.2.tar.gz
+    c1790b50b784ce67c2830a53c3e6f92e29e6f86fd7da6797effa60cc2704c134  bitcoin-0.16.2-osx-unsigned.dmg
+    e56b7d20bc7bfb8203f1651ddcf4fc18d8685acf942a8c7b90919f29e24db3a1  bitcoin-0.16.2-osx-unsigned.tar.gz
+    64e7d96d0497112aa808ff94e63eb18bff1535cf6237e7c1d602f0fca167e863  bitcoin-0.16.2-osx64.tar.gz
+    1910c58b7d8e13acbd05b0e8fd9b4b61cbac5776f058ee10bc80c1d2a7c707d8  src/bitcoin-0.16.2.tar.gz
 - in_manifest: |-
     d3e2f49dd986bd5269105ea057e84db203f559d3a2c5102bc3943772371f2f29  bitcoin-osx-0.16-desc.yml
     cfe03a1c871c6d009ae63f66efb3daa411f966ca09864a9406867e911099e03f  MacOSX10.11.sdk.tar.gz
-    git:7649da3588b1327ad9e9694ad52c65ee5207b0c0 bitcoin
+    git:2848aa808fde462c27bc36de982d7ed74e882a7b bitcoin
 - base_manifests: !omap
   - trusty-amd64: |
       1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb

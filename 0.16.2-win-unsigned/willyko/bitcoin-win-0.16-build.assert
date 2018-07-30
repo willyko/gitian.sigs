@@ -1,16 +1,16 @@
 --- !omap
 - out_manifest: |
-    4c08fb02f59029d0b27e34cb4bc1f7be82420822be437531a264e242b9aaca74  bitcoin-0.16.2-win-unsigned.tar.gz
-    247e4b7f93ba4011c5c423810715a427133d12f30f570703431e445caaf23fd9  bitcoin-0.16.2-win32-debug.zip
-    7a0120f27add4ba3f461ccbb1c08612e35491651aa12923874056640f1ce8b36  bitcoin-0.16.2-win32-setup-unsigned.exe
-    b515bfba5735f17249aa3947711f1a9ea40f899c6ba720d22c678dc370a4ac2e  bitcoin-0.16.2-win32.zip
-    84192b7aadbd695e436e03f8b7bf99fb488e082d1da3469927f55fb7b05965f5  bitcoin-0.16.2-win64-debug.zip
-    b12eb5c27507adc5bafce69806f2d8a741fc363e4c76c22d5762773c3518bb4f  bitcoin-0.16.2-win64-setup-unsigned.exe
-    4874de291ab929796b77778d69fd56557565c806b002a289e7c19bba55c5e236  bitcoin-0.16.2-win64.zip
-    5aeeccda62680ac4cdc1a28c081253d5366f380c0db57d823796de8c317e2cf4  src/bitcoin-0.16.2.tar.gz
+    76d5cb0c683372e1befb91e9413ee338ff8d474d6bad1e13ec4784a41da009b0  bitcoin-0.16.2-win-unsigned.tar.gz
+    72efaf99623576806a4f6793082776a5ca0874d7c766ff1835718432e7611d2d  bitcoin-0.16.2-win32-debug.zip
+    c11fc47b6ddd6524f7e04cc6d27076abba11c3d7ac62214660fccfcad5d36dc5  bitcoin-0.16.2-win32-setup-unsigned.exe
+    b03a249811f0e889084b29b9ee8427faea641259d04e917db776973c0124631e  bitcoin-0.16.2-win32.zip
+    99e2af5f4af43f8c320ad528c78602328d6a16ed38fc740afa319fcfa6346f9b  bitcoin-0.16.2-win64-debug.zip
+    e5f855edd39b0c6929f7d5b8eaff0703978869a6f44e6acf48da487ff17d7630  bitcoin-0.16.2-win64-setup-unsigned.exe
+    f3869032cd78d191f9cb389c5a70a378894bd090edb86ea54288737a005f1152  bitcoin-0.16.2-win64.zip
+    1910c58b7d8e13acbd05b0e8fd9b4b61cbac5776f058ee10bc80c1d2a7c707d8  src/bitcoin-0.16.2.tar.gz
 - in_manifest: |-
     6202e6f504a638234aa37f690eba9a007c164d4aae4231d3ef2df95e1fe7c507  bitcoin-win-0.16-desc.yml
-    git:7649da3588b1327ad9e9694ad52c65ee5207b0c0 bitcoin
+    git:2848aa808fde462c27bc36de982d7ed74e882a7b bitcoin
 - base_manifests: !omap
   - trusty-amd64: |
       1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb
