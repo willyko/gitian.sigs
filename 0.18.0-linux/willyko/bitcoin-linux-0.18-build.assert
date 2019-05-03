@@ -285,9 +285,9 @@
       d12d02c0d237e2ff766c02e31f4779a455c81d9f7a8ebbc7a083cc2d77d5cf13  libgdbm5_1.14.1-6_amd64.deb
       5ebe2f31f36042bec9c390e8e890b24a3a1f21ec1b2f70eabee62c3bf63fd511  libgirepository-1.0-1_1.56.1-1_amd64.deb
       eb1df17e88a067c9fb4fc61c72decb9120ce11cb61b6ebbacd837cf24d7293e4  libglib2.0-0_2.56.1-2ubuntu1_amd64.deb
-      cf4ee651699a2089954f73a5a46b4ded7e3e6a09051eea686febaff34c3c4e1c  libglib2.0-0_2.56.3-0ubuntu0.18.04.1_amd64.deb
+      741878486a5c717a2ef1691562e8f9299a1fe7336d4ee13da10b7772aec88da1  libglib2.0-0_2.56.4-0ubuntu0.18.04.2_amd64.deb
       95c46d4540b666679715696d597d026c454455251cc4fa294dfbfb8071848b15  libglib2.0-data_2.56.1-2ubuntu1_all.deb
-      62943e043169d3e4c9426f304485612327dc2bfc27658c85eaf86b04cef38f0c  libglib2.0-data_2.56.3-0ubuntu0.18.04.1_all.deb
+      87a43516b268faf40e7e46b736e80c6308d7a1ae1d97d76726d371d6b85e363c  libglib2.0-data_2.56.4-0ubuntu0.18.04.2_all.deb
       5b4ea4fdbc5cf9b2eb9ce7b05de58a36b507982d9fa8c84765d41279e4645be1  libgmp10_2%3a6.1.2+dfsg-2_amd64.deb
       bed4a513a5dc7ae82b0be7191a874f1ad6778a7fab14c5a27c0e62b367584452  libgnutls30_3.5.18-1ubuntu1_amd64.deb
       52b64814e7584d2b7dada5da3d68be2773b83bb8681cc7033984647a5bdb0fee  libgomp1-arm64-cross_8.3.0-6ubuntu1~18.04cross1_all.deb

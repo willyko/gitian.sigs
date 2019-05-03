@@ -41,9 +41,9 @@
       2ce18f7b1df549637630040557d7f472f38fc728a72521c1f737a7f818f912dd  cgroup-lite_1.15_all.deb
       128bc260711dff5d97aafb9a172a3f53639cbede9635a8973bd0d129cc07a992  cmake-data_3.10.2-1ubuntu2_all.deb
       2d58c09462d2b4c7cbfc7331d073a6407c43565fc5e22d6b84abc342c51a89c4  cmake_3.10.2-1ubuntu2_amd64.deb
-      2fa5a35539cb76512b35d401bd44ff577bb45343a98fba56b2e0d914624313ea  console-setup-linux_1.178ubuntu2.8_all.deb
+      e72238b9ee38287d0791ec94214c4e3392099992ac5de429a2a8bf93c94034d4  console-setup-linux_1.178ubuntu2.9_all.deb
       1bbb5bb4d77383a3dc3a83782ac99ec23e5328885afa57aeb43fc51f82be280f  console-setup-linux_1.178ubuntu2_all.deb
-      6e69a17992c519d771bcd032396218656205ded8bd7f328f4f4e52f9ac4a0012  console-setup_1.178ubuntu2.8_all.deb
+      413b6cb6e062cf7e4ba3408ef3dc815ee296db5286ef77ee51e2e6ec99bf88b0  console-setup_1.178ubuntu2.9_all.deb
       6e87d93d1d4bb56cf1a3c9d1178e03190a4c06d0251c17aa873c198dafca156a  console-setup_1.178ubuntu2_all.deb
       24541a48e25dfb17c98ce77dda61800e6cd68d74c25725753613fbcc00f2418f  coreutils_8.28-1ubuntu1_amd64.deb
       0d84d8c1669beb7c0c34626ebfbbb6b6aa8b88b68af0d2749b4d54d554e14d62  cpio_2.12+dfsg-6_amd64.deb
@@ -128,7 +128,7 @@
       1efa17725e80e0c09bff5d40ea2691cb7f8af1b23822e32222fdb84b91e16494  isc-dhcp-client_4.3.5-3ubuntu7_amd64.deb
       9197da2d0817c4b3e1247679dfdb55de7b9029913e2285c61f77248b3416d822  isc-dhcp-common_4.3.5-3ubuntu7_amd64.deb
       1b9fcb80f32b6afea10ca0b9cf31742aef2afe7f34f352c56bc7b92f17aade34  kbd_2.0.4-2ubuntu1_amd64.deb
-      f2851cca0a1fc3ec1ea1a5a98a98ec9fbae33085961fef39bd1a50947b9349c7  keyboard-configuration_1.178ubuntu2.8_all.deb
+      14a5e5ff8660142ebf7f237c150bc942ff18d471e1d5f5331dcb93e3f6356eaa  keyboard-configuration_1.178ubuntu2.9_all.deb
       2f2c240a3121e54a4bf4f2df7835a1a34502e4727d1e0048cfd7cd718c559109  keyboard-configuration_1.178ubuntu2_all.deb
       367220c54e8f6433231c15cf70d0f7ff479d41eb6088fe05f196238e8112677f  klibc-utils_2.0.4-9ubuntu2_amd64.deb
       b5116af73609c96ba69365df33c99efa5ace2d6df7d0f2000e153a4970f5961f  kmod_24-1ubuntu3.2_amd64.deb
@@ -237,9 +237,9 @@
       fc69f58ecef40ca74ff382d304e406e97a4af3241ae8791f5f93bd5efb010770  libgdk-pixbuf2.0-common_2.36.11-2_all.deb
       5ebe2f31f36042bec9c390e8e890b24a3a1f21ec1b2f70eabee62c3bf63fd511  libgirepository-1.0-1_1.56.1-1_amd64.deb
       eb1df17e88a067c9fb4fc61c72decb9120ce11cb61b6ebbacd837cf24d7293e4  libglib2.0-0_2.56.1-2ubuntu1_amd64.deb
-      cf4ee651699a2089954f73a5a46b4ded7e3e6a09051eea686febaff34c3c4e1c  libglib2.0-0_2.56.3-0ubuntu0.18.04.1_amd64.deb
+      741878486a5c717a2ef1691562e8f9299a1fe7336d4ee13da10b7772aec88da1  libglib2.0-0_2.56.4-0ubuntu0.18.04.2_amd64.deb
       95c46d4540b666679715696d597d026c454455251cc4fa294dfbfb8071848b15  libglib2.0-data_2.56.1-2ubuntu1_all.deb
-      62943e043169d3e4c9426f304485612327dc2bfc27658c85eaf86b04cef38f0c  libglib2.0-data_2.56.3-0ubuntu0.18.04.1_all.deb
+      87a43516b268faf40e7e46b736e80c6308d7a1ae1d97d76726d371d6b85e363c  libglib2.0-data_2.56.4-0ubuntu0.18.04.2_all.deb
       5b4ea4fdbc5cf9b2eb9ce7b05de58a36b507982d9fa8c84765d41279e4645be1  libgmp10_2%3a6.1.2+dfsg-2_amd64.deb
       bed4a513a5dc7ae82b0be7191a874f1ad6778a7fab14c5a27c0e62b367584452  libgnutls30_3.5.18-1ubuntu1_amd64.deb
       9c9a6ce568a81d1ca8d8bad70fa1a05a7481800a2face261093a74a823cb3964  libgomp1_8-20180414-1ubuntu2_amd64.deb
